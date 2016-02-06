@@ -1,4 +1,4 @@
-name: MRSZYMON
+name: MR.SZYMON
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.24242
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.5
-  lightness: 0.6797765649389476
-  saturation: 0.5052961150649935
-  rhythmicContrast: 0.44140755175612867
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
